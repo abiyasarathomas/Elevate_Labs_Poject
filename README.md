@@ -4,11 +4,6 @@
 </h1>
 </div>
 
-<!-- Project Description -->
-<p align="center">
-  <b>Unlocking the Power of YouTube Data for Content Creators and Marketers</b>
-</p>
-
 <!-- Objectives -->
 ## Objectives 🎯
 
